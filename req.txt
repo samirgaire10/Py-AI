@@ -1,0 +1,26 @@
+
+
+this will create a virtual env  environment  
+no need----------------------------python -m venv OllamaUI
+
+linux or mac
+source chatbot/bin/activate
+
+windows 
+.\OllamaUI\Scripts\activate.bat
+./OllamaUI/Scripts/activate.bat
+
+for me it didnot work so i did
+cd OllamaUI
+cd Scripts
+./activate.bat
+
+and then i 
+
+this will install langchain and langchain ollama module  
+pip install langchain langchain_ollama
+
+
+
+
+OllamaUI\Scripts\activate
